@@ -17,6 +17,9 @@ standalone DBMS under the hood.
 
 Additional read (you might find it intriguing):
 https://www.infoq.com/articles/polyglot-persistence-microservices
+
 https://www.infoq.com/presentations/microservices-polyglot-persistence
+
 https://www.meetup.com/Silicon-Valley-NoSQL/events/247519984/
+
 https://medium.com/netflix-techblog/netflixs-viewing-data-how-we-know-where-you-are-in-house-of-cards-608dd61077da
