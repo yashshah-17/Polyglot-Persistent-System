@@ -16,6 +16,7 @@ for an e-commerce application intending to achieve better querying performance t
 standalone DBMS under the hood.
 
 Additional read (you might find it intriguing):
+
 https://www.infoq.com/articles/polyglot-persistence-microservices
 
 https://www.infoq.com/presentations/microservices-polyglot-persistence
