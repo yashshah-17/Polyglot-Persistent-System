@@ -1,7 +1,5 @@
 # Polyglot-Persistent-System
 
-Something new, something fun!
-
 The term polyglot persistence simply means that when storing data, it is best to use multiple
 storage technologies, chosen, based upon the way data is being used by individual applications or
 components of a single application. Different kinds of data are best dealt with different data
@@ -15,7 +13,7 @@ Through this project, we propose a hybrid data store architecture using a polygl
 for an e-commerce application intending to achieve better querying performance than a
 standalone DBMS under the hood.
 
-Additional read (you might find it intriguing):
+## Additional read (you might find it intriguing)
 
 https://www.infoq.com/articles/polyglot-persistence-microservices
 
